@@ -18,9 +18,9 @@ Prepared 6 Nov 2026. Copy each field into Seller Portal (seller.samsungapps.com)
   Signing cert SHA-256: 94ea6f5bea796131add8cf7de3bdbb4644aa60826c2da41659961fc189347758
 - Target SDK: 34 (Galaxy Store needs 33 or higher — met)
 - Min SDK: 26 (Android 8.0+)
-- Icon: STILL NEEDED — 512x512 PNG, under 1,024 KB. The app has no
-  raster launcher icon (it uses a vector pin drawable), so one must be
-  made from the pin artwork before submitting.
+- Icon: store-listing/icon-512.png (512x512, 24,341 bytes) — drawn from
+  the app's own green pin drawable (#4CAF50) on a dark rounded square,
+  made 6 Nov 2026.
 
 ## Short description (keep under 40 characters for Galaxy Store)
 
